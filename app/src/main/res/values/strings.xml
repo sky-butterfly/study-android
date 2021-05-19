@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strBtn1">새로운 숫자 뽑기 (Touch!)</string>
+    <string name="strBtn2">Reset!</string>
+</resources>
